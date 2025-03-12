@@ -20,12 +20,7 @@
 
 
 ## 📈 Github Status
-![Gitea Forks](https://img.shields.io/gitea/forks/:user/:repo)
-![Gitea Stars](https://img.shields.io/gitea/stars/Spotless-face-under-earth/:)
 ![GitHub followers](https://img.shields.io/github/followers/Spotless-face-under-earth)
-![GitHub watchers](https://img.shields.io/github/watchers/Spotless-face-under-earth/:repo)
-
-
 
 
 
