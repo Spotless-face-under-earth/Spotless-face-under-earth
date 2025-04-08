@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chenghao Jia
   
 ## 👨‍💻 Basic Information
-- 👀 I’m interested in software coding.
+- 👀 I’m interested in NLP.
 - 🌱 I’m currently learning information conceal, including hide information in photos and vedios.
 - 💞️ I’m looking to collaborate on software project.
 - 📫 Contact me through weixin:jch1693772117
